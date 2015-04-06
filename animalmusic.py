@@ -5,6 +5,10 @@ import subprocess
 import random
 from datetime import datetime
 
+print "\n--------Animal Crossing Player--------"
+print "All Songs are copyright Nintendo 2015."
+print "\n"
+
 path1 = os.getcwd() + "/songs/time"
 path2 = os.getcwd() + "/songs/kk"
 
@@ -25,7 +29,7 @@ def checkSong():
 
 def songTime(sc):
 
-    if datetime.now().hour == 11 and datetime.today().weekday() == 0:
+    if datetime.now().hour == 22 and datetime.today().weekday() == 5:
         y = random.randint(1,7)
         song = "songs/kk/" + kklist[y]
         songname = song[9:]

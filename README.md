@@ -11,3 +11,7 @@ Console Python Script to play animal crossing (wild world) songs according to th
   - Play/Pause/Skip songs using multimedia keys
   - Browse and listen to K.K. Slider Songs
   - Add GUI (Mac OS)
+
+
+All music credited to © Nintendo 2015
+Animal Crossing Player © Alex Bucknall 2015

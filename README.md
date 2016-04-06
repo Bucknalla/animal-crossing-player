@@ -18,4 +18,4 @@ Console Python Script to play animal crossing (wild world) songs according to th
 Please message me for feedback/constructive critisism! I'm keen to learn!
 
 All music credited to © Nintendo 2015.
-Animal Crossing Player © Alex Bucknall 2015.
+Animal Crossing Player
